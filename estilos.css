@@ -1,5 +1,5 @@
 #banner{
-    background-image: url(img/imagen.jpeg);
+    background-image: url(img/fotoG37.jpeg);
     background-size: cover;
     padding: 20% 2%;
     position:relative;
@@ -63,8 +63,8 @@
  }
 
  .fondo2{
-     background-color:goldenrod ;
+     background-color:#4A235A ;
  }
  .fondoFooter{
-    background-color: black;
+    background-color: #4A235A;
 }
